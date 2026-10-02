@@ -35,3 +35,31 @@ All 5 mandatory HackerRank problems were successfully submitted and accepted.
 3. Time Conversion
 4. Compare the Triplets
 5. Sparse Arrays
+
+
+## HackerRank Accepted Submissions
+
+![Accepted Submissions](screenshots/accepted-submissions.png)
+
+## HackerRank Badges
+
+![HackerRank Badge](screenshots/hackerrank-badge.png) 
+
+
+
+
+## HackerRank Accepted Submissions
+
+![Submission 1](Screenshot%202026-10-02%20091036.png)
+
+![Submission 2](Screenshot%202026-10-02%20092357.png)
+
+![Submission 3](Screenshot%202026-10-02%20092543.png)
+
+![Submission 4](Screenshot%202026-10-02%20092804.png)
+
+![Submission 5](Screenshot%202026-10-02%20091049.png)
+
+## HackerRank Badge
+
+![HackerRank Badge](PASTE-BADGE-SCREENSHOT-FILENAME-HERE)
